@@ -1,4 +1,4 @@
-eEres the server for the project
+-- Prepares the server for the project
 -- Creates a database hbnb_test_db and a new user hbnb_test
 CREATE DATABASE IF NOT EXISTS hbnb_test_db;
 CREATE USER IF NOT EXISTS 'hbnb_test'@'localhost' IDENTIFIED BY 'hbnb_test_pwd';
