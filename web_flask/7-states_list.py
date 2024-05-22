@@ -1,4 +1,7 @@
-uns a Flask web application on 0.0.0.0:5000
+#!/usr/bin/python3
+"""
+
+Runs a Flask web application on 0.0.0.0:5000
 
 """
 from ../models import storage
